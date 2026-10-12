@@ -217,4 +217,4 @@ Visual Web Ripper is available as a **complete free version** with all features 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-12 00:57:52 UTC
+**Last updated:** 2026-10-12 07:09:09 UTC
